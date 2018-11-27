@@ -1,0 +1,21 @@
+---
+title: "analysis"
+author: "A Gruer"
+date: "27 November 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+devtools::load_all()
+```
+
+```{r}
+hi()
+```
+
+
